@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "SQLite Persistence with FastAPI",
+      "description": "Persist book data in SQLite using sqlite3 and FastAPI.",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
